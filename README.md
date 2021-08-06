@@ -14,7 +14,8 @@ Coding Handle:-
 
 HackerRank:-https://www.hackerrank.com/mani9k9                                                              
 LeetCode  :-https://leetcode.com/mani9k9/    
-CodeCheif :-https://www.codechef.com/users/mani9k9 
+CodeCheif :-https://www.codechef.com/users/mani9k9         
+GeeksForGeek:-https://auth.geeksforgeeks.org/user/badaltripathi567/profile
 
 <!---
 mani9k9/mani9k9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
