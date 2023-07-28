@@ -8,7 +8,6 @@
     LinkedIn:-https://www.linkedin.com/in/shubham-mani-tripathi-57867217a/                         
     Twitter:-https://twitter.com/mani9k9                              
     Gmail:-mani9k9@gmail.com
-  
     Portfolio:-https://my-portfolio-mauve-eta.vercel.app
 
 Coding Handle:-
