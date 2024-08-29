@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Mani Tripathi
-- 👀 I’m interested in Full Stack Web Development
-- 👀 Connect with me for work on Java , React , Spring
-- Connect me if you want to create a website
+- 👀 I’m interested in Data Analyst
+- 👀 Connect with me for work on Data Analysis, Excel, PowerBI, SQL
+- Connect me if you want to create a Data Analysis
 - 🌱 I’m currently Focusing on upgrading my skills
 - 💞️ I’m looking to collaborate with any It sector compnay 
 - 📫 How to reach me ...        
