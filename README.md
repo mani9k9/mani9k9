@@ -19,11 +19,14 @@ my core analytics work
 
 📫 Connect with me:
 LinkedIn: https://www.linkedin.com/in/shubhammanitripathi/
+
 Portfolio: https://portfolio-dun-six-79.vercel.app/
+
 Email: shubhammanitripathi04@gmail.com
 
 🧩 Coding:
 LeetCode: https://leetcode.com/u/mani9k9/
+
 HackerRank: https://www.hackerrank.com/mani9k9
 
 <!---
